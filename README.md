@@ -96,7 +96,7 @@ Test Accuracy: 96.67%
 
 2. Run the script:
    ```bash
-   python iris_classifier.py
+   python NN.py
    ```
 
 ## Author
