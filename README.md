@@ -103,7 +103,3 @@ Test Accuracy: 96.67%
 
 **Shahad-irl**  
 A computer engineering graduate passionate about artificial intelligence and machine learning.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
